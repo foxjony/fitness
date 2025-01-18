@@ -9,3 +9,7 @@
 
 ### Відправка даних
 * https://fitness.zxlogin.com/ajax.php?com=1&user=7&val=20
+
+### Screenshots
+![APP 1](https://github.com/foxjony/fitness/blob/img/1.jpg)
+![APP 2](https://github.com/foxjony/fitness/blob/img/2.jpg)
